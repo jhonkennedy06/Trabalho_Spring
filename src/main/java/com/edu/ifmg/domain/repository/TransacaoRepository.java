@@ -7,9 +7,7 @@ import com.edu.ifmg.domain.model.Transacao;
 
 @Repository
 public interface TransacaoRepository extends
-JpaRepository<Transacao, Long>{
-	
+        JpaRepository<Transacao, Long> {
 
-	
-	
+
 }

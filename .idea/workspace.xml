@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8049c127-9319-4f07-9dfc-5e55254ae033" name="Changes" comment="" />
+    <list default="true" id="8049c127-9319-4f07-9dfc-5e55254ae033" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Trabalho_Spring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/CategoriaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/CategoriaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/TransacaoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/TransacaoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.edu.ifmg/Trabalho_Spring/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.edu.ifmg/Trabalho_Spring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/TrabalhoSpringApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/ifmg/TrabalhoSpringApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Categoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Categoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Transacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Transacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/repository/TransacaoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/repository/TransacaoRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ifmg/TrabalhoSpringApplication.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +32,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2RTWoIQwb5BZvQ9ncBoaa3Ffz0c" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,9 +46,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/jhon/GitHub/Trabalho_Spring",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "fce94b40b6f82bb47e2d2ec28a47a2af",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,6 +70,9 @@
       <option name="presentableId" value="Default" />
       <updated>1687274725155</updated>
       <workItem from="1687274726382" duration="8000" />
+      <workItem from="1687301428757" duration="126000" />
+      <workItem from="1687301561832" duration="33000" />
+      <workItem from="1687301629990" duration="686000" />
     </task>
     <servers />
   </component>
