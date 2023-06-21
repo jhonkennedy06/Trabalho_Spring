@@ -5,26 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8049c127-9319-4f07-9dfc-5e55254ae033" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Trabalho_Spring.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/api/controll/CategoriaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/api/controll/TransacaoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/CategoriaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/CategoriaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/TransacaoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/TransacaoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.edu.ifmg/Trabalho_Spring/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.edu.ifmg/Trabalho_Spring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/model/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/model/Categoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/model/Transacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/model/Transacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/TrabalhoSpringApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/ifmg/TrabalhoSpringApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Categoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Categoria.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Transacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Transacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/repository/CategoriaRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/repository/CategoriaRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/repository/TransacaoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/repository/TransacaoRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ifmg/TrabalhoSpringApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/edu/ifmg/TrabalhoSpringApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/edu/ifmg/TrabalhoSpringApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,23 +51,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/jhon/GitHub/Trabalho_Spring",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "spring.configuration.checksum": "fce94b40b6f82bb47e2d2ec28a47a2af",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jhon/GitHub/Trabalho_Spring&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fce94b40b6f82bb47e2d2ec28a47a2af&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Spring Boot.TrabalhoSpringApplication">
+    <configuration name="import.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/import.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="TrabalhoSpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Trabalho_Spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.ifmg.TrabalhoSpringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,11 +93,25 @@
       <workItem from="1687274726382" duration="8000" />
       <workItem from="1687301428757" duration="126000" />
       <workItem from="1687301561832" duration="33000" />
-      <workItem from="1687301629990" duration="686000" />
+      <workItem from="1687301629990" duration="6641000" />
+      <workItem from="1687308660210" duration="1915000" />
+      <workItem from="1687310593338" duration="537000" />
+      <workItem from="1687312417400" duration="1236000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
