@@ -1,7 +1,6 @@
-package com.edu.ifmg.api.controll;
+package com.edu.ifmg.api.control;
 
 import com.edu.ifmg.domain.model.Categoria;
-import com.edu.ifmg.domain.model.Transacao;
 import com.edu.ifmg.domain.repository.CategoriaRepository;
 
 

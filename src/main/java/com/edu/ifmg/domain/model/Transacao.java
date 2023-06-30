@@ -10,6 +10,8 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
 import java.time.LocalDateTime;
 
 @Data
@@ -36,5 +38,8 @@ public class Transacao {
     private LocalDateTime data_vencimento;
 
     /* campo para o fatura id */
+    @ManyToOne
+    @JoinColumn(name = "fatura_id", nullable = false)
+    private Fatura fatura;
 
 }
