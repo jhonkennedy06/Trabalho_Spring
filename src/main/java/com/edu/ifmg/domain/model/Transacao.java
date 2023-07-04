@@ -32,10 +32,10 @@ public class Transacao {
     private int parcela;
 
     @Column(nullable = false, columnDefinition = "datetime") // informa que o campo é not null
-    private LocalDateTime data_pagamento;
+    private LocalDateTime dataPagamento;
 
     @Column(nullable = false, columnDefinition = "datetime") // informa que o campo é not null
-    private LocalDateTime data_vencimento;
+    private LocalDateTime dataVencimento;
 
     /* campo para o fatura id */
     @ManyToOne

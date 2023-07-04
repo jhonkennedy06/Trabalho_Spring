@@ -6,15 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8049c127-9319-4f07-9dfc-5e55254ae033" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/CategoriaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/CategoriaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/FaturaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/FaturaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/MetaCategoriaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/MetaCategoriaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postman/sistemaFinanceiro_collections.json" beforeDir="false" afterPath="$PROJECT_DIR$/postman/sistemaFinanceiro_collections.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/model/Fatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/model/Fatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/model/Transacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/model/Transacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/TransacaoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/ifmg/domain/repository/TransacaoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/api/controll/CategoriaController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/api/controll/TransacaoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Categoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Categoria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Transacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/ifmg/domain/model/Transacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/import.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +97,7 @@
       <workItem from="1687354744027" duration="3876000" />
       <workItem from="1688156519985" duration="269000" />
       <workItem from="1688431499315" duration="9473000" />
+      <workItem from="1688473083992" duration="2359000" />
     </task>
     <servers />
   </component>
